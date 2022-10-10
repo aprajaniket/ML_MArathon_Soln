@@ -1,4 +1,4 @@
-# ML_MArathon_Soln
+# ML_Marathon_Soln
 Predicting Whether The Customer Will Subscribe To Term Deposit         
 1-Population Segmentation      
 2-Customer's place    
